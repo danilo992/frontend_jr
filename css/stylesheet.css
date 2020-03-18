@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-size: 14px
+}
+
+/*HEADER*/
+.container {
+    background: url('../img/ProvaFrontEndJunior-Desk-1.png') no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container h1 {
+    padding-top: 18px;
+    text-align: center;
+    color: #4d6128;
+}
+
+.container p {
+    text-align: center;
+    margin-top: 5px;
+    color: #213800
+}
+
+/* MAIN */
+
+article {
+    display: flex;
+    flex-direction: row;
+}
+
+article div {
+    text-align: center;
+    width: 31vw;
+    padding-left: 9%;
+}
+
+article img {
+    border: 5px solid #707070;
+}
+
