@@ -125,11 +125,11 @@ footer {
 
     .container-img img {
         width: 100vw;
-        height: 90vh;
+        height: 70vh;
     }
 
     .container-aside {
-        margin-top: -80px;
+        margin-top: -105px;
     }
 
     .container-aside img {
@@ -137,7 +137,8 @@ footer {
     }
 
     .container-aside h2 {
-        font-size: 30px;
+        font-size: 60px;
+        margin-left: -5%;
     }
 }
 
